@@ -16,3 +16,6 @@ lines
 """
 
 print(anotherSplitString)
+
+print("C:\\Users\\frank\\notes.txt")
+print(r"C:\Users\frank\notes.txt")
