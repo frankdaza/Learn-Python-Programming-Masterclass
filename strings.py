@@ -6,6 +6,17 @@ print("holi 'caracoli'")
 print("hello" + "world")
 
 greeting = "Hello"
-name = input("Please enter your name: ")
+# name = input("Please enter your name: ")
+name = "Frank"
 # if we want a space, we can add that too
 print(greeting + " " + name)
+
+age = 31
+print(age)
+
+print(type(name))
+print(type(age))
+
+age = "2 years"
+print(age)
+print(type(age))
