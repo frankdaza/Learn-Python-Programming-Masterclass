@@ -1,1 +1,5 @@
 print('Hello, World!')
+print(1 + 2)
+print(3 * 4)
+print()
+print("The end", "of", "the", "fucking world", 3)
