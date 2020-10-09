@@ -37,5 +37,6 @@ print()
 
 print(parrot[:6] + parrot[6:])
 print(parrot[:])
-
-letters = "abcdefghijklmnopqrstuvwxyz"
+print(parrot[-14:8])
+print(parrot[-4:-2])
+print(parrot[-4:12])
